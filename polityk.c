@@ -10,8 +10,8 @@ void zart3(void){
 
     switch (a) {
         case 1:
-            puts("- Tatusiu, dlaczego my tak późno przyszliśmy do tego sklepu na zakupy?\n"
-                 "- Nie gadaj tyle, piłuj kłódkę......");
+            puts("Puk puk! Kto tam\n"
+                 "POLITYK");
             break;
         case 2:
             puts("Lekcja biologii.\n"
